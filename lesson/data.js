@@ -1,0 +1,36 @@
+module.exports = [{
+  name: '张三',
+  age: 20,
+  gender: 'male',
+  job: 'job1'
+}, {
+  name: '李四',
+  age: 39,
+  gender: 'female',
+  job: 'job2'
+}, {
+  name: '王五',
+  age: 18,
+  gender: 'male',
+  job: 'job1'
+}, {
+  name: '赵六',
+  age: 21,
+  gender: 'female',
+  job: 'job2'
+}, {
+  name: '小王',
+  age: 32,
+  gender: 'female',
+  job: 'job3'
+}, {
+  name: '小李',
+  age: 29,
+  gender: 'male',
+  job: 'job4'
+}, {
+  name: '小杨',
+  age: 19,
+  gender: 'male',
+  job: 'job4'
+}]

@@ -1,3 +1,5 @@
+const ramda = require('ramda')
+
 // 声明式
 function double (array) {
   const res = []
